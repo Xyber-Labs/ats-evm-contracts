@@ -1,0 +1,16 @@
+{
+    "name": "ats-smart-contracts",
+    "devDependencies": {
+        "@nomicfoundation/hardhat-toolbox": "5.0.0",
+        "@openzeppelin/hardhat-upgrades": "3.2.1",
+        "ethers": "6.13.2",
+        "hardhat": "2.22.10",
+        "hardhat-contract-sizer": "2.10.0"
+    },
+    "dependencies": {
+        "@nomicfoundation/hardhat-ignition": "0.15.5",
+        "@openzeppelin/contracts": "5.0.2",
+        "@openzeppelin/contracts-upgradeable": "5.0.2",
+        "dotenv": "16.4.5"
+    }
+}

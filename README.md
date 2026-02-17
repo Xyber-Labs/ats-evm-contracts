@@ -112,4 +112,4 @@ MIT
 
 ## Support
 
-For questions and support, please open an issue in the repository.
+For questions and support, please open an issue in this repository.
